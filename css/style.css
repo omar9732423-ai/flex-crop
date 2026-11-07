@@ -1,0 +1,30 @@
+html { scroll-behavior: smooth; }
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-top: 56px; }
+section { padding: 80px 0; }
+.navbar-brand img { height: 30px; width: 30px; }
+.hero-section {
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    color: #fff;
+    padding: 100px 0;
+}
+.hero-img { border-radius: 16px; box-shadow: 0 15px 35px rgba(0,0,0,.35); }
+.page-header {
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    color: #fff;
+    padding: 70px 0;
+    text-align: center;
+}
+.card-custom {
+    transition: transform .3s ease, box-shadow .3s ease;
+    border: none;
+    border-radius: 12px;
+    overflow: hidden;
+}
+.card-custom:hover { transform: translateY(-10px); box-shadow: 0 10px 20px rgba(0,0,0,.15); }
+.card-custom img { height: 200px; object-fit: cover; }
+.team-img { width: 140px; height: 140px; object-fit: cover; border-radius: 50%; }
+.rounded-img { border-radius: 16px; box-shadow: 0 8px 25px rgba(0,0,0,.15); }
+#btn-back-to-top {
+    position: fixed; bottom: 20px; right: 20px; display: none;
+    z-index: 1000; border-radius: 50%; width: 50px; height: 50px;
+}

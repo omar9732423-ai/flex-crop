@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#11998e"/><stop offset="1" stop-color="#38ef7d"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#g)"/>
+<circle cx="640.0" cy="125.0" r="90.0" fill="#fff" opacity=".15"/>
+<circle cx="120.0" cy="425.0" r="125.0" fill="#fff" opacity=".1"/>
+<text x="50%" y="52%" text-anchor="middle" font-family="Segoe UI,Arial" font-size="45.0" fill="#fff" font-weight="600">About Us Photo</text>
+<text x="50%" y="62%" text-anchor="middle" font-family="Segoe UI,Arial" font-size="22.5" fill="#fff" opacity=".8">replace with your photo</text></svg>
